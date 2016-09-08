@@ -1,0 +1,20 @@
+{
+    "name": "localdatetime",
+    "version": "0.0.1",
+    "main": "dist/locale.js",
+    "ignore": [
+        "source",
+        "spec",
+        ".bowerrc",
+        ".gitignore",
+        ".jshintignore",
+        ".jshintrc",
+        "bower.json",
+        "gruntfile.js",
+        "package.json",
+        "README.md"
+    ],
+    "dependencies": {
+        "moment":"~2.11.2"
+    }
+}
