@@ -1,7 +1,7 @@
 {
     "name": "localdatetime",
     "version": "0.0.1",
-    "main": "dist/locale.js",
+    "main": "localdatetime.js",
     "ignore": [
         "source",
         "spec",
