@@ -1,0 +1,30 @@
+{
+  "name": "localdatetime",
+  "version": "0.0.2",
+  "main": "localdatetime.js",
+  "ignore": [
+    "source",
+    "spec",
+    ".bowerrc",
+    ".gitignore",
+    ".jshintignore",
+    ".jshintrc",
+    "bower.json",
+    "gruntfile.js",
+    "package.json",
+    "README.md"
+  ],
+  "dependencies": {
+    "moment": "~2.11.2"
+  },
+  "homepage": "https://github.com/EricHeXia/localdatetime",
+  "_release": "0.0.2",
+  "_resolution": {
+    "type": "version",
+    "tag": "0.0.2",
+    "commit": "07f62f59683fc4d81eb48e079364f9498e4164d5"
+  },
+  "_source": "https://github.com/EricHeXia/localdatetime.git",
+  "_target": "~0.0.2",
+  "_originalSource": "localdatetime"
+}

@@ -1,0 +1,7 @@
+<div style="padding-top: 50px">Example for time ago:  <span am-time-ago="modifiedAt" title="{{modifiedAtTitle}}" ng-class=""></span></div>
+<br>
+<div class="input-group">
+    Example for date picker:
+<input type="text" class="form-control" id="questionDueDate2" name="dueDate2" ng-model="dueDate2" ng-required="false"  ng-click="toggleDatePicker($event)" ng-disabled="false"/>
+<input ng-show="false" type="text" class="form-control" id="questionDueDate" name="dueDate" ng-model="dueDate" ng-required="false" is-open="dueDateOptions.isOpen" datepicker-popup="{{dueDateOptions.popupFormat}}" datepicker-options="dueDateOptions" show-button-bar="dueDateOptions.showButtonBar" ng-disabled="true"/>
+</div>
